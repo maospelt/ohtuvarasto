@@ -1,2 +1,2 @@
-Tässä on ensimmäinen muutos
+Tässä on ensimmäinen muutos "git add -p-" komentoa varten
 
