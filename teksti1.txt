@@ -1,2 +1,0 @@
-Tässä on ensimmäinen muutos "git add -p-" komentoa varten
-
